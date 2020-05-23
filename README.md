@@ -6,7 +6,7 @@ Launcher Özellikler
 -Hile Koruması (Düşük Seviye)
 - Launcher Harici Girişleri Engelleme
 - Sunucu Durumu 
-- Online Oyun Sayısı
+- Online Oyuncu Sayısı
 - Arttırılabilir Sayfa
 - Discord RPC
 - Setup Kurulum Dosyası
